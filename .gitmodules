@@ -1,0 +1,6 @@
+[submodule "CogModel/CCM-site"]
+	path = CogModel/CCM-site
+	url = https://github.com/brendenlake/CCM-site.git
+[submodule "RL/reinforcement-learning-an-introduction"]
+	path = RL/reinforcement-learning-an-introduction
+	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
