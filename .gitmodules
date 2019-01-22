@@ -4,3 +4,6 @@
 [submodule "RL/reinforcement-learning-an-introduction"]
 	path = RL/reinforcement-learning-an-introduction
 	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
+[submodule "SN/Applied-Social-Network-Analysis-in-Python"]
+	path = SN/Applied-Social-Network-Analysis-in-Python
+	url = https://github.com/rahulpatraiitkgp/Applied-Social-Network-Analysis-in-Python.git
