@@ -7,3 +7,6 @@
 [submodule "SN/Applied-Social-Network-Analysis-in-Python"]
 	path = SN/Applied-Social-Network-Analysis-in-Python
 	url = https://github.com/rahulpatraiitkgp/Applied-Social-Network-Analysis-in-Python.git
+[submodule "UnityVRAR/VR2019"]
+	path = UnityVRAR/VR2019
+	url = https://github.com/IndieGameMaker/VR2019.git
